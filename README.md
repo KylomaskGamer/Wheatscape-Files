@@ -29,6 +29,6 @@ game assets
 - not the bread, hes built in
 - mainly the base game stuff
 
-# so uhh wheres the fish
+# contributing
 
-fisgy
+you may fork but you may not pull request. ill implement a feature in a base game to play a mod from repo URL. free mods :D
